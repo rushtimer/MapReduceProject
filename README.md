@@ -1,4 +1,4 @@
-# MapReduceProject
+# MapReduce Setup
 Hadoop 2.x installation guide
 Version 2.7 and later of Apache Hadoop requires at least Java 7. Here we will use Hadoop 2.9.2 and Java 8. You are free to use other versions.
 
